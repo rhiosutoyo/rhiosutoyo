@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @rhiosutoyo
-- 👀 I’m interested in Natural Language Processing (NLP)
-- 🏫 I’m currently learning Computational Linguistics and Sentiment Analysis
-- 📄 My publications: https://scholar.google.com/citations?user=bKfMmKYAAAAJ&hl=en
-- 💼 I’m looking to collaborate on NLP Projects
-- 📫 How to reach me: rsutoyo@binus.edu
+- 👀 I’m looking to collaborate on Natural Language Processing (NLP) projects
+- 📄 My research profile: [Google Scholar](https://scholar.google.com/citations?user=bKfMmKYAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Rhio-Sutoyo)
+- 📫 Please reach out to me for further collaboration at [LinkedIn](https://www.linkedin.com/in/rhiosutoyo) or [Twitter](https://twitter.com/rhiosutoyo)
 
 <!---
 rhiosutoyo/rhiosutoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
